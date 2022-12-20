@@ -1,0 +1,22 @@
+# created by `gradle init` task, amended
+
+# Gradle project-specific cache directory
+/.gradle/
+
+# Gradle build output directories
+**/build/
+
+# log files
+**/*.log
+**/*.log.gz
+**/*.log.*.gz
+
+# Eclipse
+**/.settings/
+**/.project
+/*/bin/
+/*/.classpath
+
+# IDEA
+**/.idea
+/*/out/
